@@ -8,8 +8,6 @@ Armada is an open-source container orchestration tool that allows administrators
 to automate the configuration and deployment of development environments in the
 cloud.
 
-<br>
-
 Each development environment within Armada exists as a set of containers that
 exposes an Integrated Development Environment (IDE) and all its necessary
 dependencies to developers via their browsers. Armada’s architecture is
