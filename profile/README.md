@@ -1,14 +1,14 @@
 <p align="center">
-    <img src="./logo.png" alt="The Armada Logo -- A pirate ship with a gradient background." width="250" />
+    <img src="https://github.com/team-armada/.github/blob/main/profile/logo.png" alt="The Armada Logo -- A pirate ship with a gradient background." width="250" />
 </p>
 
 # Armada
 
-<br>
-
 Armada is an open-source container orchestration tool that allows administrators
 to automate the configuration and deployment of development environments in the
 cloud.
+
+<br>
 
 Each development environment within Armada exists as a set of containers that
 exposes an Integrated Development Environment (IDE) and all its necessary
