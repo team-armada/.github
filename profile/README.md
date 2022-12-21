@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/team-armada/.github/blob/main/profile/logo.png" alt="The Armada Logo -- A pirate ship with a gradient background." width="250" />
+    <img src="https://github.com/team-armada/.github/blob/main/profile/logo.svg" alt="The Armada Logo -- A pirate ship with a gradient background." width="250" />
 </p>
 
 # Armada
